@@ -5,6 +5,7 @@ git_push.sh
 phpunit.xml.dist
 src/ApiException.php
 src/Configuration.php
+src/FormDataProcessor.php
 src/HeaderSelector.php
 src/Model/ModelInterface.php
 src/ObjectSerializer.php
